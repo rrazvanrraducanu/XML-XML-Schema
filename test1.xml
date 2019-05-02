@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='test.xsd'>
+    <date>
+        <Nume></Nume>
+        <Prenume></Prenume>
+        <Username></Username>
+    </date>
+    <date>
+        <Nume></Nume>
+        <Prenume></Prenume>
+        <Username></Username>
+    </date>
+    <date>
+        <Nume></Nume>
+        <Prenume></Prenume>
+        <Username></Username>
+    </date>
+
+</root>
